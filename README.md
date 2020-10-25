@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on my bachelor thesis, this gif is an artefact from the project...
 - 🌱 I’m currently studying Airflow task orchestration and interaction with AWS and GCP ecosystems...
 - 💬 Ask me about anything, at least I will try to help
-- 📫 How to reach me: LinkedIn or send me a email
+- 📫 How to reach me: try LinkedIn or send me a email
 
 <br/>
 
