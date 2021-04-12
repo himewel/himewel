@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" src="https://codeleading.com/imgrdrct/https://imgconvert.csdnimg.cn/aHR0cHM6Ly91cGxvYWRlci5zaGltby5pbS9mL3FCZlNrTXM0Z3VNZ1htaWIuZ2lm" />
+<img align="center" alt="GIF" src="./gif/cat.gif" />
 
 ### Hi there 👋
 
@@ -16,11 +16,11 @@
 </p>
 
 <p align = "center">
-  <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/docker-226091.png"> Docker</code> +
-  <code><img height="20" src="https://avatars2.githubusercontent.com/u/33643075?s=280&v=4"> Airflow</code> +
-  <code><img height="20" src="https://www.clipartmax.com/png/middle/200-2001825_bigquery-analytics-data-warehouse-google-cloud-big-query-icon.png"> BigQuery</code> +
-  <code><img height="20" src="https://i.pinimg.com/originals/28/ec/74/28ec7440a57536eebad2931517aa1cce.png"> Terraform</code> +
-  <code><img height="20" src="https://spark.apache.org/docs/2.1.0/img/spark-logo-hd.png"> PySpark</code>
+  <code><img src="./img/docker.png"> Docker</code> +
+  <code><img src="./img/airflow.png"> Airflow</code> +
+  <code><img src="./img/bigquery.png"> BigQuery</code> +
+  <code><img src="./img/terraform.png"> Terraform</code> +
+  <code><img src="./img/spark.png"> PySpark</code>
 </p>
 
 <!--
