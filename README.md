@@ -4,7 +4,7 @@
 
 <!-- <img align="right" alt="GIF" src="https://github.com/himewel/voc-person-detection/blob/master/charts/endgame.gif" /> -->
 
-- 🔭 I’m currently member of the 3778 data engineering team
+- 🔭 I’m currently member of the data engineering team at [BV Bank](https://www.bancobv.com.br/web/site/en/index.html)
 - 🌱 I’m currently studying ETL pipelines with Airflow orchestration on open databases like ANAC and INMET
 - 💬 Ask me about anything, at least I will try to help
 - 📫 How to reach me: try LinkedIn or send me a email
