@@ -11,16 +11,24 @@
 
 <br/>
 
-<p align = "center">
+<p align="center">
   Tools that I've been studying
 </p>
 
-<p align = "center">
+<!-- <p align = "center">
   <code><img src="./img/docker.png"> Docker</code> +
   <code><img src="./img/airflow.png"> Airflow</code> +
   <code><img src="./img/bigquery.png"> BigQuery</code> +
   <code><img src="./img/terraform.png"> Terraform</code> +
   <code><img src="./img/spark.png"> PySpark</code>
+</p> -->
+
+<p align="center">
+  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="Apache Airflow" src="https://img.shields.io/badge/apacheairflow-%23017cee.svg?&style=for-the-badge&logo=apache-airflow&logoColor=white"/>
+  <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img alt="Terraform" src="https://img.shields.io/badge/terraform-%23623CE4.svg?&style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img alt="Apache Spark" src="https://img.shields.io/badge/apachespark-%23e25a1c.svg?&style=for-the-badge&logo=apache-spark&logoColor=white"/>
 </p>
 
 <!--
