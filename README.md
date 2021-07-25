@@ -2,10 +2,10 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently member of the data engineering team at [BV Bank](https://www.bancobv.com.br/web/site/en/index.html)
-- 🌱 I’m currently studying ETL pipelines with Airflow orchestration on open databases like ANAC and INMET
+- 🔭 I’m currently member of the data engineering team at [engdb](https://www.engdb.com.br/)
+- 🌱 I’m currently studying ETL pipelines with Apache Airflow orchestration with Spark or Pandas jobs on open databases like ANAC, INMET or CartolaFC (see my projects 😄)
 - 💬 Ask me about anything, at least I will try to help
-- 📫 How to reach me: try LinkedIn or send me a email
+- 📫 How to reach me: try LinkedIn or an email :P
 
 <br/>
 
