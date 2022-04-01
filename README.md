@@ -21,5 +21,5 @@ Tools that I've been working with:
 <img alt="Databricks" src="https://img.shields.io/badge/databricks-%23ff3621.svg?&style=for-the-badge&logo=databricks&logoColor=white"/>
 <img alt="Microsoft Azure" src="https://img.shields.io/badge/microsoftazure-%230078d4.svg?&style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 <img alt="Amazon AWS" src="https://img.shields.io/badge/amazonaws-%23232f3e.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img alt="Apache Kafka" src="https://img.shields.io/badge/amazonaws-%23231f20.svg?&style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img alt="Apache Kafka" src="https://img.shields.io/badge/apachekafka-%23231f20.svg?&style=for-the-badge&logo=apachekafka&logoColor=white"/>
 </p>
