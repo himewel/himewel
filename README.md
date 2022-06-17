@@ -2,11 +2,11 @@
 
 ### Hi there 👋
 
-- 🔭 I’m a data engineer at [Engineering Brasil](https://www.engdb.com.br/) and [Via Varejo](https://viavarejo.com.br/)
-- 🌱 Currently, I'am coursing a MBA in Data Engineering at [FIAP](https://fiap.com.br/). In parallel I try to keep my github up with projects integrating Apache Airflow, Spark, Docker, Terraform, Kubernetes and other open source stuff.
-- Take a look in some projects that I have been working such as [ANAC data streaming](https://github.com/himewel/airport_streaming), [INMET weather dashboard](https://github.com/himewel/weather_gather) and [CartolaFC](https://github.com/himewel/cartolafc).
-- Currently I am taking a look more close to change data capture streaming pipelines with Debezium and Spark in [engage challenge](https://github.com/himewel/engage)
-- 📫 How to reach me: try LinkedIn or an email :P
+- 🔭 I’m a data engineer at [Via Varejo](https://viavarejo.com.br/)
+- 🌱 Currently, I'am studying a MBA in Data Engineering at [FIAP](https://fiap.com.br/). In parallel I try to keep my github up with projects of Apache Airflow, Apache Spark, Docker, Terraform, Kubernetes and other open source modern data stack tools.
+- Take a look in some projects that I have been working such as [covid19retail](https://github.com/himewel/covid19retail), [INMET weather dashboard](https://github.com/himewel/weather_gather) and [CartolaFC](https://github.com/himewel/cartolafc).
+- Currently I am taking a look more close to modern data stack tools and there integration with data lineage and data catalog services.
+- 📫 Feel free to reach me at LinkedIn!
 
 <br/>
 
