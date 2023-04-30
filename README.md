@@ -2,10 +2,10 @@
 
 ### Hi there 👋
 
-- 🔭 I’m a data engineer at [Via Varejo](https://viavarejo.com.br/)
-- 🌱 Currently, I'am studying a MBA in Data Engineering at [FIAP](https://fiap.com.br/). In parallel I try to keep my github up with projects of Apache Airflow, Apache Spark, Docker, Terraform, Kubernetes and other open source modern data stack tools.
+- 🔭 I’m a data engineer working at [Via Varejo](https://viavarejo.com.br/)
+- 🌱 I hold a MBA in Data Engineering at [FIAP](https://fiap.com.br/) and a bachelor in Computer Engineering at [Federal University of Pampa](https://unipampa.edu.br). I usually try to keep my github fresh with projects around Apache Airflow, Apache Spark, Docker, Terraform, Kubernetes and other tools from modern data stack.
 - Take a look in some projects that I have been working such as [covid19retail](https://github.com/himewel/covid19retail), [INMET weather dashboard](https://github.com/himewel/weather_gather) and [CartolaFC](https://github.com/himewel/cartolafc).
-- Currently I am taking a look more close to modern data stack tools and there integration with data lineage and data catalog services.
+- Currently I am getting deeper in functional programming with Scala using Cats.
 - 📫 Feel free to reach me at LinkedIn!
 
 <br/>
