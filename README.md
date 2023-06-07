@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m a data engineer working at [Via Varejo](https://viavarejo.com.br/)
+- 🔭 I’m a data engineer working at [Quartile](https://quartile.com/)
 - 🌱 I hold a MBA in Data Engineering at [FIAP](https://fiap.com.br/) and a bachelor in Computer Engineering at [Federal University of Pampa](https://unipampa.edu.br). I usually try to keep my github fresh with projects around Apache Airflow, Apache Spark, Docker, Terraform, Kubernetes and other tools from modern data stack.
 - Take a look in some projects that I have been working such as [covid19retail](https://github.com/himewel/covid19retail), [INMET weather dashboard](https://github.com/himewel/weather_gather) and [CartolaFC](https://github.com/himewel/cartolafc).
 - Currently I am getting deeper in functional programming with Scala using Cats. This is the repo I am adding more contents about typeclasses and other Cats related contents: https://github.com/himewel/scala-fp.
