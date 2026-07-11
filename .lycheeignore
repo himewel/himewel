@@ -1,2 +1,5 @@
 # Medium blocks automated link checkers with 403 responses.
 ^https://medium\.com/
+
+# UNIPAMPA is unreachable from GitHub Actions runner networks.
+^https://unipampa\.edu\.br/
