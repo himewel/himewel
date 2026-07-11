@@ -1,0 +1,18 @@
+name: Link Check
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - name: Check links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --root-dir "$(pwd)" --verbose --no-progress --max-retries 3 './README.md'
+          fail: true
