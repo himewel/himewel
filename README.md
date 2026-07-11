@@ -21,6 +21,7 @@ Data engineer at [Quartile](https://quartile.com/) — pipelines, cloud infrastr
 | [**cartolafc**](https://github.com/himewel/cartolafc) | Cartola FC scouts — data lake, warehouse, and dashboard |
 | [**covid19retail**](https://github.com/himewel/covid19retail) | Covid-19 and Iowa liquor sales — dbt, Marquez, and GCP |
 | [**airflow_celery_workers**](https://github.com/himewel/airflow_celery_workers) | Airflow 2.0 with Celery executor on Docker |
+| [**github-sink**](https://github.com/himewel/github-sink) | GitHub API extraction to Console, File, MongoDB, and Kafka |
 | [**weather_gather**](https://github.com/himewel/weather_gather) | INMET weather extraction, structuring, and visualization |
 
 <br/>
