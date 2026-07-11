@@ -1,25 +1,38 @@
-<img align="center" alt="GIF" src="./gif/cat.gif" />
+<p align="center">
+  <img alt="Coding cat animation" src="./gif/cat.gif" width="400"/>
+</p>
 
 ### Hi there 👋
 
-- 🔭 I’m a data engineer working at [Quartile](https://quartile.com/)
-- 🌱 I hold a MBA in Data Engineering at [FIAP](https://fiap.com.br/) and a bachelor in Computer Engineering at [Federal University of Pampa](https://unipampa.edu.br). I usually try to keep my github fresh with projects around Apache Airflow, Apache Spark, Docker, Terraform, Kubernetes and other tools from modern data stack.
-- Take a look in some projects that I have been working such as [covid19retail](https://github.com/himewel/covid19retail), [INMET weather dashboard](https://github.com/himewel/weather_gather) and [CartolaFC](https://github.com/himewel/cartolafc).
-- Currently I am getting deeper in functional programming with Scala using Cats. This is the repo I am adding more contents about typeclasses and other Cats related contents: https://github.com/himewel/scala-fp.
-- 📫 Feel free to reach me at LinkedIn!
+Data engineer at [Quartile](https://quartile.com/) — pipelines, cloud infrastructure, and functional programming.
+
+- 🔭 I build data platforms with Apache Spark, Docker, Terraform, Kubernetes, and other tools from the modern data stack
+- 🌱 I hold an MBA in Data Engineering at [FIAP](https://fiap.com.br/) and a bachelor in Computer Engineering at [Federal University of Pampa](https://unipampa.edu.br)
+- 📚 I'm deepening functional programming with Scala, Cats, and ZIO in [scala-fp](https://github.com/himewel/scala-fp)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/welbert-hime), [Medium](https://medium.com/@himewel), or [himewel.github.io](https://himewel.github.io/)
+
+### Featured projects
+
+| Project | Description |
+| --- | --- |
+| [**cartolafc**](https://github.com/himewel/cartolafc) | Cartola FC scouts — data lake, warehouse, and dashboard |
+| [**covid19retail**](https://github.com/himewel/covid19retail) | Covid-19 and Iowa liquor sales — dbt, Marquez, and GCP |
+| [**airflow_celery_workers**](https://github.com/himewel/airflow_celery_workers) | Airflow 2.0 with Celery executor on Docker |
+| [**weather_gather**](https://github.com/himewel/weather_gather) | INMET weather extraction, structuring, and visualization |
 
 <br/>
 
 Tools that I've been working with:
 
 <p>
-<img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-<img alt="Apache Airflow" src="https://img.shields.io/badge/apacheairflow-%23017cee.svg?&style=for-the-badge&logo=apache-airflow&logoColor=white"/>
-<img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
-<img alt="Apache Spark" src="https://img.shields.io/badge/apachespark-%23e25a1c.svg?&style=for-the-badge&logo=apache-spark&logoColor=white"/>
-<img alt="Terraform" src="https://img.shields.io/badge/terraform-%237b42bc.svg?&style=for-the-badge&logo=terraform&logoColor=white"/>
-<img alt="Databricks" src="https://img.shields.io/badge/databricks-%23ff3621.svg?&style=for-the-badge&logo=databricks&logoColor=white"/>
-<img alt="Microsoft Azure" src="https://img.shields.io/badge/microsoftazure-%230078d4.svg?&style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img alt="Amazon AWS" src="https://img.shields.io/badge/amazonaws-%23232f3e.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img alt="Apache Kafka" src="https://img.shields.io/badge/apachekafka-%23231f20.svg?&style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
+<a href="https://docs.pydantic.dev/"><img alt="Pydantic" src="https://img.shields.io/badge/pydantic-%23E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white"/></a>
+<a href="https://cloud.google.com/"><img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/></a>
+<a href="https://spark.apache.org/"><img alt="Apache Spark" src="https://img.shields.io/badge/apachespark-%23e25a1c.svg?style=for-the-badge&logo=apache-spark&logoColor=white"/></a>
+<a href="https://www.terraform.io/"><img alt="Terraform" src="https://img.shields.io/badge/terraform-%237b42bc.svg?style=for-the-badge&logo=terraform&logoColor=white"/></a>
+<a href="https://www.databricks.com/"><img alt="Databricks" src="https://img.shields.io/badge/databricks-%23ff3621.svg?style=for-the-badge&logo=databricks&logoColor=white"/></a>
+<a href="https://zio.dev/"><img alt="ZIO" src="https://img.shields.io/badge/ZIO-5B21B6?style=for-the-badge&logo=scala&logoColor=white"/></a>
+<a href="https://azure.microsoft.com/"><img alt="Microsoft Azure" src="https://img.shields.io/badge/microsoftazure-%230078d4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/></a>
+<a href="https://aws.amazon.com/"><img alt="Amazon AWS" src="https://img.shields.io/badge/amazonaws-%23232f3e.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
+<a href="https://kafka.apache.org/"><img alt="Apache Kafka" src="https://img.shields.io/badge/apachekafka-%23231f20.svg?style=for-the-badge&logo=apachekafka&logoColor=white"/></a>
 </p>
