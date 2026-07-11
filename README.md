@@ -4,9 +4,10 @@
 
 ### Hi there 👋
 
-Data engineer at [Quartile](https://quartile.com/) — pipelines, cloud infrastructure, and functional programming.
+Data engineer at [Quartile](https://quartile.com/) — pipelines, cloud infrastructure, APIs, and functional programming.
 
 - 🔭 I build data platforms with Apache Spark, Docker, Terraform, Kubernetes, and other tools from the modern data stack
+- 🚀 Recently: [q2google](https://github.com/himewel/q2google) (GoPro cloud → Google Photos) and [gopro-api](https://github.com/himewel/gopro-api) (async GoPro Quik API helpers)
 - 🌱 I hold an MBA in Data Engineering at [FIAP](https://fiap.com.br/) and a bachelor in Computer Engineering at [Federal University of Pampa](https://unipampa.edu.br/portal/)
 - 📚 I'm deepening functional programming with Scala, Cats, and ZIO in [scala-fp](https://github.com/himewel/scala-fp)
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/welbert-hime), [Medium](https://medium.com/@himewel), or [himewel.github.io](https://himewel.github.io/)
@@ -15,9 +16,12 @@ Data engineer at [Quartile](https://quartile.com/) — pipelines, cloud infrastr
 
 | Project | Description |
 | --- | --- |
+| [**q2google**](https://github.com/himewel/q2google) | Sync GoPro cloud media to Google Photos Library |
+| [**gopro-api**](https://github.com/himewel/gopro-api) | Async GoPro Quik / cloud library API helpers |
 | [**cartolafc**](https://github.com/himewel/cartolafc) | Cartola FC scouts — data lake, warehouse, and dashboard |
 | [**covid19retail**](https://github.com/himewel/covid19retail) | Covid-19 and Iowa liquor sales — dbt, Marquez, and GCP |
 | [**airflow_celery_workers**](https://github.com/himewel/airflow_celery_workers) | Airflow 2.0 with Celery executor on Docker |
+| [**github-sink**](https://github.com/himewel/github-sink) | GitHub API extraction to Console, File, MongoDB, and Kafka |
 | [**weather_gather**](https://github.com/himewel/weather_gather) | INMET weather extraction, structuring, and visualization |
 
 <br/>
