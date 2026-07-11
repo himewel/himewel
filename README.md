@@ -7,7 +7,7 @@
 Data engineer at [Quartile](https://quartile.com/) — pipelines, cloud infrastructure, and functional programming.
 
 - 🔭 I build data platforms with Apache Spark, Docker, Terraform, Kubernetes, and other tools from the modern data stack
-- 🌱 I hold an MBA in Data Engineering at [FIAP](https://fiap.com.br/) and a bachelor in Computer Engineering at [Federal University of Pampa](https://unipampa.edu.br)
+- 🌱 I hold an MBA in Data Engineering at [FIAP](https://fiap.com.br/) and a bachelor in Computer Engineering at [Federal University of Pampa](https://unipampa.edu.br/portal/)
 - 📚 I'm deepening functional programming with Scala, Cats, and ZIO in [scala-fp](https://github.com/himewel/scala-fp)
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/welbert-hime), [Medium](https://medium.com/@himewel), or [himewel.github.io](https://himewel.github.io/)
 

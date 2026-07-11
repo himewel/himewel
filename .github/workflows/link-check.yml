@@ -14,5 +14,5 @@ jobs:
       - name: Check links
         uses: lycheeverse/lychee-action@v2
         with:
-          args: --root-dir "$(pwd)" --verbose --no-progress --exclude '^https://medium\.com/' './README.md'
+          args: --root-dir "$(pwd)" --verbose --no-progress --max-retries 3 --exclude '^https://medium\.com/' './README.md'
           fail: true
