@@ -21,7 +21,7 @@ Data engineer at [Quartile](https://quartile.com/) — pipelines, cloud infrastr
 | [**cartolafc**](https://github.com/himewel/cartolafc) | End-to-end Cartola FC platform — Airflow, Hadoop/Hive, DataHub lineage, Superset |
 | [**covid19retail**](https://github.com/himewel/covid19retail) | Lambda data architecture — dbt medallion, Airflow, Superset, Marquez on GCP |
 | [**airflow_celery_workers**](https://github.com/himewel/airflow_celery_workers) | Airflow CeleryExecutor on Docker Compose — Redis, Postgres, Flower, GCP/Nginx deploy |
-| [**github-sink**](https://github.com/himewel/github-sink) | GitHub API extraction to Console, File, MongoDB, and Kafka |
+| [**github-sink**](https://github.com/himewel/github-sink) | Functional Scala CLI — GitHub API to console, file, or MongoDB with Cats and Circe |
 | [**weather_gather**](https://github.com/himewel/weather_gather) | INMET weather pipeline — Terraform (GCP), Airflow ETL, BigQuery, Superset |
 
 <br/>
