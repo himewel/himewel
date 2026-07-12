@@ -17,12 +17,12 @@ Data engineer at [Quartile](https://quartile.com/) — pipelines, cloud infrastr
 | Project | Description |
 | --- | --- |
 | [**q2google**](https://github.com/himewel/q2google) | Sync GoPro cloud media to Google Photos Library |
-| [**gopro-api**](https://github.com/himewel/gopro-api) | Async GoPro Quik / cloud library API helpers |
-| [**cartolafc**](https://github.com/himewel/cartolafc) | Cartola FC scouts — data lake, warehouse, and dashboard |
-| [**covid19retail**](https://github.com/himewel/covid19retail) | Covid-19 and Iowa liquor sales — dbt, Marquez, and GCP |
-| [**airflow_celery_workers**](https://github.com/himewel/airflow_celery_workers) | Airflow 2.0 with Celery executor on Docker |
+| [**gopro-api**](https://github.com/himewel/gopro-api) | Async GoPro Quik / cloud library API helpers — search media, resolve download URLs |
+| [**cartolafc**](https://github.com/himewel/cartolafc) | End-to-end Cartola FC platform — Airflow, Hadoop/Hive, DataHub lineage, Superset |
+| [**covid19retail**](https://github.com/himewel/covid19retail) | Lambda data architecture — dbt medallion, Airflow, Superset, Marquez on GCP |
+| [**airflow_celery_workers**](https://github.com/himewel/airflow_celery_workers) | Airflow CeleryExecutor on Docker Compose — Redis, Postgres, Flower, GCP/Nginx deploy |
 | [**github-sink**](https://github.com/himewel/github-sink) | GitHub API extraction to Console, File, MongoDB, and Kafka |
-| [**weather_gather**](https://github.com/himewel/weather_gather) | INMET weather extraction, structuring, and visualization |
+| [**weather_gather**](https://github.com/himewel/weather_gather) | INMET weather pipeline — Terraform (GCP), Airflow ETL, BigQuery, Superset |
 
 <br/>
 
